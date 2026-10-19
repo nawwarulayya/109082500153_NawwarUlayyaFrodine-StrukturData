@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 3 - SINGLY LINKED LIST </h1>
+# <h1 align="center">Laporan Praktikum Modul 3 - SINGLY LINKED LIST (BAGIAN PERTAMA) </h1>
 <p align="center">Nawwar Ulayya Frodine - 109082500153</p>
 
 ## Dasar Teori
